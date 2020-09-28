@@ -1,2 +1,2 @@
 # Tic-tac-toe
-tic tac toe game in py
+tic tac toe game in python. simple ide 
